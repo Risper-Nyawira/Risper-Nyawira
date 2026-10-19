@@ -34,6 +34,17 @@ A structured workspace for examining the relationships between agricultural prod
 **Workflow:** SQL/SQLite, processed datasets, Python notebooks, and planned dashboard outputs  
 [Explore the repository →](https://github.com/Risper-Nyawira/kenya-food-security-analysis)
 
+## Ideas in development
+
+I also maintain an **Ideas Bank** for concepts I am researching and considering for future development. These are early-stage ideas, not claims of completed or validated products.
+
+- 🌱 **RegeneraSense** — data-driven regenerative agriculture intelligence for water-stressed regions.
+- 🌾 **Afya Verified** — a proposed integrated platform combining farmer-to-buyer market access, agricultural research and extension services, and production-practice verification.
+- 🌳 **Kabukuru Farm** — an integrated regenerative farming model linking crops, trees, livestock, and circular use of farm resources.
+- 🌿 **Limuru Regenerative Herbs and Spices Farm** — a proposed two-acre high-value crop venture, subject to agronomic and market feasibility research.
+
+[Read the Ideas Bank →](https://github.com/Risper-Nyawira/risper-nyawira-portfolio/blob/main/IDEAS_BANK.md)
+
 ## How I work
 
 - Start with a clear, decision-relevant research question.
