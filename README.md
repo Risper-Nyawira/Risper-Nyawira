@@ -32,7 +32,7 @@ A developing tomato-market pilot examining price patterns, seasonality, market d
 A structured workspace for examining the relationships between agricultural production, climate variability, market dynamics, and food security, with documented data preparation and analysis stages.
 
 **Workflow:** SQL/SQLite, processed datasets, Python notebooks, and planned dashboard outputs  
-[Explore the repository →](https://github.com/Risper-Nyawira/kenya-food-security-analysis)
+[Explore the repository →](https://github.com/Risper-Nyawira/kenya-food-security-analysis) · [View Lanfrica catalogue record →](https://lanfrica.com/en/record/github-risper-nyawira-kenya-food-security-analysis)
 
 ## Ideas in development
 
