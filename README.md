@@ -2,6 +2,8 @@
 
 ### Agricultural Economics • Research Analytics • Food Systems • Development Impact
 
+**Explore:** [Professional portfolio](https://risper-nyawira.github.io/risper-nyawira-portfolio/) · [LinkedIn](https://www.linkedin.com/in/risper-nyawira/) · [Research projects](https://github.com/Risper-Nyawira?tab=repositories)
+
 I work at the intersection of **agricultural economics, applied research, data analysis, and sustainable development**. I am interested in turning agricultural, market, climate, and programme data into practical evidence that can support better decisions for farmers, communities, and development practitioners.
 
 My background is in **Agricultural Economics and Rural Development at JKUAT**, with experience spanning agricultural marketing research, agricultural extension, data quality work, and development programming.
